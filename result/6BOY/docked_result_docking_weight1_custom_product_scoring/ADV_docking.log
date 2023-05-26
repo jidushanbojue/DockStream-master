@@ -1,0 +1,32 @@
+2023-04-08 15:04:01 - DockStream version used: 1.0.0
+2023-04-08 15:04:01 - Could not load CCDC / Gold docker - if another backend is being used, you can safely ignore this warning. The exception message reads: No module named 'ccdc'
+2023-04-08 15:04:01 - Starting generation of pool RDkit_pool.
+2023-04-08 15:04:01 - As input is SDF, coordinate generation is skipped.
+2023-04-08 15:04:01 - Completed construction of pool RDkit_pool.
+2023-04-08 15:04:01 - Starting docking run AutoDockVina.
+2023-04-08 15:04:06 - |█████████████████████████████████████████████████████████████████| 100.0% 
+2023-04-08 15:04:06 - Completed docking run AutoDockVina.
+2023-04-08 15:05:30 - DockStream version used: 1.0.0
+2023-04-08 15:05:30 - Could not load CCDC / Gold docker - if another backend is being used, you can safely ignore this warning. The exception message reads: No module named 'ccdc'
+2023-04-08 15:05:30 - Starting generation of pool RDkit_pool.
+2023-04-08 15:05:30 - As input is SDF, coordinate generation is skipped.
+2023-04-08 15:05:30 - Completed construction of pool RDkit_pool.
+2023-04-08 15:05:30 - Starting docking run AutoDockVina.
+2023-04-08 15:05:34 - |█████████████████████████████████████████████████████████████████| 100.0% 
+2023-04-08 15:05:34 - Completed docking run AutoDockVina.
+2023-04-08 15:12:42 - DockStream version used: 1.0.0
+2023-04-08 15:12:42 - Could not load CCDC / Gold docker - if another backend is being used, you can safely ignore this warning. The exception message reads: No module named 'ccdc'
+2023-04-08 15:12:42 - Starting generation of pool RDkit_pool.
+2023-04-08 15:12:42 - As input is SDF, coordinate generation is skipped.
+2023-04-08 15:12:42 - Completed construction of pool RDkit_pool.
+2023-04-08 15:12:42 - Starting docking run AutoDockVina.
+2023-04-08 15:12:47 - |█████████████████████████████████████████████████████████████████| 100.0% 
+2023-04-08 15:12:48 - Completed docking run AutoDockVina.
+2023-04-09 11:52:15 - DockStream version used: 1.0.0
+2023-04-09 11:52:15 - Could not load CCDC / Gold docker - if another backend is being used, you can safely ignore this warning. The exception message reads: No module named 'ccdc'
+2023-04-09 11:52:15 - Starting generation of pool RDkit_pool.
+2023-04-09 11:52:15 - As input is SDF, coordinate generation is skipped.
+2023-04-09 11:52:15 - Completed construction of pool RDkit_pool.
+2023-04-09 11:52:15 - Starting docking run AutoDockVina.
+2023-04-09 11:52:20 - |█████████████████████████████████████████████████████████████████| 100.0% 
+2023-04-09 11:52:20 - Completed docking run AutoDockVina.

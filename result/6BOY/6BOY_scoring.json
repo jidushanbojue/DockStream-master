@@ -1,0 +1,62 @@
+{
+  "docking": {
+    "header": {
+      "logging": {
+        "logfile": "/data/baiqing/PycharmProjects/DockStream-master/result/6BOY/docked_result_docking_weight1_custom_product_scoring/ADV_docking.log"
+      }
+    },
+    "ligand_preparation": {
+      "embedding_pools": [
+        {
+          "pool_id": "RDkit_pool",
+          "type": "RDkit",
+          "parameters": {
+            "prefix_execution": "module load RDkit"
+          },
+          "input": {
+            "standardize_smiles": false,
+            "type": "sdf",
+            "input_path": "/data/baiqing/PycharmProjects/Reinvent-master-3.2/result/LINK_invent/6BOY/scoring_process/rearranged_h_mini.sdf"
+          }
+        }
+      ]
+    },
+    "docking_runs": [
+      {
+        "backend": "AutoDockVina",
+        "run_id": "AutoDockVina",
+        "input_pools": [
+          "RDkit_pool"
+        ],
+        "parameters": {
+          "binary_location": "/data/baiqing/PycharmProjects/DockStream-master/DockStreamCommunity/AutoDock-Vina-1.2.3",
+          "parallelization": {
+            "number_cores": 64
+          },
+          "seed": 42,
+          "receptor_pdbqt_path": [
+            "/data/baiqing/PycharmProjects/DockStream-master/result/6BOY/6boy_apo.pdbqt"
+          ],
+          "number_poses": 2,
+          "search_space": {
+            "--center_x": 72.03,
+            "--center_y": 38.67,
+            "--center_z": 51.08,
+            "--size_x": 40,
+            "--size_y": 40,
+            "--size_z": 40
+          },
+          "local_only": true
+        },
+        "output": {
+          "poses": {
+            "poses_path": "/data/baiqing/PycharmProjects/DockStream-master/result/6BOY/docked_result_docking_weight1_custom_product_scoring/ADV_ligands_docked.sdf"
+          },
+          "scores": {
+            "scores_path": "/data/baiqing/PycharmProjects/DockStream-master/result/6BOY/docked_result_docking_weight1_custom_product_scoring/ADV_scores.csv"
+          }
+        }
+      }
+    ]
+  }
+}

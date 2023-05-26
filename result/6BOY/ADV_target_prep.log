@@ -1,0 +1,9 @@
+2022-12-22 00:14:49 - DockStream version used: 1.0.0
+2022-12-22 00:14:50 - Warning: importing 'simtk.openmm' is deprecated.  Import 'openmm' instead.
+2022-12-22 00:14:55 - Started preparation run number 0.
+2022-12-22 00:14:57 - Ligand from file /home/cadd/PycharmProjects/DockStream-master/result/6BOY/6boy_ligand.pdb has the following dimensions:
+X coordinates: min=65.43, max=76.68, mean=72.03
+Y coordinates: min=29.95, max=50.58, mean=38.67
+Z coordinates: min=46.77, max=58.7, mean=51.08
+2022-12-22 00:14:57 - Wrote AutoDock Vina target to file /home/cadd/PycharmProjects/DockStream-master/result/6BOY/6BOY_apo.pdbqt.
+2022-12-22 00:14:57 - Completed target preparation run number 0.

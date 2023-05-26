@@ -1,0 +1,2 @@
+ligand_number,enumeration,conformer_number,name,score,smiles,lowest_conformer
+0,0,0,0,-13.931,[H]Oc1c([H])c([H])c([H])c([H])c1-c1nnc(N([H])[H])c(N2C([H])([H])C([H])([H])N(C([H])([H])c3c([H])c([H])c(C([H])([H])C([H])([H])Oc4c([H])c(-c5sc([H])nc5C([H])([H])[H])c([H])c([H])c4C([H])([H])N([H])C(=O)C4([H])N(C(=O)C([H])(N([H])C(=O)C5(F)C([H])([H])C5([H])[H])C(C([H])([H])[H])(C([H])([H])[H])C([H])([H])[H])C([H])([H])C([H])(O[H])C4([H])[H])c([H])c3[H])C([H])([H])C2([H])[H])c1[H],True
