@@ -1,0 +1,4 @@
+/mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/my_build/CMakeFiles/edit_cache.dir
+/mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/my_build/CMakeFiles/vina.dir
+/mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/my_build/CMakeFiles/rebuild_cache.dir
+/mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/my_build/CMakeFiles/vina_lib.dir

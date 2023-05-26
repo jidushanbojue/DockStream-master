@@ -1,0 +1,6 @@
+--receptor /mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/example/basic_docking/solution/1iep_receptor.pdbqt \
+--ligand /mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/example/basic_docking/solution/1iep_ligand.pdbqt \
+--config /mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/example/basic_docking/solution/1iep_receptor_vina_box.txt \
+--out /mnt/home/linjie/CLionProjects/AutoDock-Vina-1.2.3/result/debug_vina_out.pdbqt \
+--exhaustiveness 32 \
+--score_only
