@@ -4,7 +4,7 @@
 
    In default docking component of Protac-invent, we choose "AutoDock Vina" as docking backends
 
-* 1.The version of AutoDock Vina changed to "AutoDock-Vina-1.2.3" (default: autodock_vina_1_1_2_linux_x86)
+* 1.The version of AutoDock Vina changed to "AutoDock-Vina-1.2.3" (default: autodock_vina_1_1_2_linux_x86). Two Version locate in  DockStreamCommunity
 * 2.The code of core (DockStream-master/dockstream/core/Autodockvina) is modified.
 * 3.The rest of the code can remain unchanged
 
