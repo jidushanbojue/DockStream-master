@@ -1,4 +1,4 @@
-## Please Note: this repository is intended to Protac-invent.
+## Please Note: this repository is intended to Protac-invent. Source code for our paper "3D Based Generative PROTAC Linker Design with Reinforcement Learning"
 
    Minor modification were conducted for resolving some incompatibility issues of Python environment
 
