@@ -6,7 +6,7 @@
 
 * 1.The version of AutoDock Vina changed to "AutoDock-Vina-1.2.3" (default: autodock_vina_1_1_2_linux_x86). Because the older version do not support "local only" mode. Two Version also locate in  DockStreamCommunity.
 * 2.The code of core (DockStream-master/dockstream/core/Autodockvina) is modified.
-* 3.The rest of the code can remain unchanged
+* 3.The rest of the code can remain unchanged.
 
 
 
