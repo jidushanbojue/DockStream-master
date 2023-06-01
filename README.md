@@ -1,6 +1,6 @@
 ## Please Note: this repository is intended to Protac-invent.
 
-* ** minor modification were conducted for resolving some incompatibility issues of Python environment
+* **minor modification were conducted for resolving some incompatibility issues of Python environment
 
 
 
