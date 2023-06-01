@@ -1,4 +1,4 @@
-## Please Note: This repository is the specific pluggin intended to **[Protac-invent](https://github.com/jidushanbojue/Protac-invent)**. Source code for our paper "3D Based Generative PROTAC Linker Design with Reinforcement Learning"
+## Please Note: This repository is the specific pluggin intended to **[Protac-invent](https://github.com/jidushanbojue/Protac-invent)**. Source code for our paper "**[3D Based Generative PROTAC Linker Design with Reinforcement Learning](https://chemrxiv.org/engage/chemrxiv/article-details/646c5a71b3dd6a653095b6ec)**"
 
    Minor modification were conducted for resolving some incompatibility issues of Python environment
 
